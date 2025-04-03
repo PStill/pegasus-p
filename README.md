@@ -2,7 +2,7 @@
 
 Pegasus Workflow Management System
 ----------------------------------
-TRYTRY
+TRYTRY/只clone分支
 
 Pegasus WMS is a configurable system for mapping and executing scientific
 workflows over a wide range of computational infrastructures including laptops,
